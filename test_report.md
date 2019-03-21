@@ -2,7 +2,7 @@
 
 ## Issues Identified
 
-There are generally xxx issues I have found from the work in progress ransomware dashboard website.
+There are generally 10 issues I have found from the work in progress ransomware dashboard website.
 
 1.	Password on login page is submitted using clear-text over http.
 
