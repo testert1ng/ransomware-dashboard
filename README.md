@@ -6,7 +6,7 @@ You are tasked with performing a black-box penetration security test against thi
 - You are permitted to perform any manner of testing against the application, using any tools and techniques with the exception of Denial of Service (DoS)
 - The scope is the HTTP service listening on TCP port 80 only
 - There are no hidden subdomains, files or services – the entire scope of the application can be directly accessed via the following URL:
-	- http://207.148.80.36/03a5d78b1b5aa374/
+	- ~~http://207.148.80.36/03a5d78b1b5aa374/~~
 
 Once you have completed testing, we request the following outputs:
 
